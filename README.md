@@ -40,18 +40,20 @@ Or manually download and unzip the project folder.
 🔹 3. Run the Streamlit app
 
 -streamlit run talentAI.py
+-
 Or (if streamlit is not in PATH):
 
 -python -m streamlit run talentAI.py
-The app will open at: http://localhost:8501
 -
+The app will open at: http://localhost:8501
+
 
 ---
 
 🖼️ Screenshot
 
 -After running in streamlit
--<img width="599" height="293" alt="image" src="https://github.com/user-attachments/assets/af233d1e-3cfd-47b1-8703-6b1d4932b8a6" />
+<img width="599" height="293" alt="image" src="https://github.com/user-attachments/assets/af233d1e-3cfd-47b1-8703-6b1d4932b8a6" />
 
 
 
